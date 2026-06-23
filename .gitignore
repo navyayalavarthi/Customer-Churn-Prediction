@@ -1,0 +1,26 @@
+# Data files
+data/
+*.db
+
+# Large prediction files
+output/churn_predictions.csv
+output/churn_predictions_500k.csv
+output/churn_predictions_500k.xlsx
+output/churn_predictions.xlsx
+
+# Model files
+models/
+*.pkl
+
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Dashboard
+dashboard/*.pbix
+
+# Environment
+.env
+*.env
