@@ -9,11 +9,7 @@
 
 ## Project Overview
 
-Developed machine learning models to identify customers at risk
-of churn and support retention strategy planning across 500K+
-customer records. Built end-to-end pipeline from SQL analysis
-through model training, SHAP explainability, K-Means segmentation,
-and interactive Power BI dashboards identifying $157M+ revenue at risk.
+Developed machine learning models to identify customers at risk of churn and support retention strategy planning across 500K+ customer records. Built end-to-end pipeline from SQL analysis through model training, SHAP explainability, K-Means segmentation, and interactive Power BI dashboards identifying $157M+ revenue at risk.
 
 ## Key Results
 
@@ -149,6 +145,7 @@ tenure              — longer stay = lower risk
 | Risk Segments | 169K high risk customers by segment and region |
 | Model Performance | Confusion matrix, Precision, Recall, F1, Recall gauge |
 | Retention Strategy | Revenue at risk, top churn reasons, customer table |
+![Dashboard](screenshots/dashboard.png)
 
 ## Project Structure
 ```
