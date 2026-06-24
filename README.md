@@ -1,11 +1,10 @@
 ## 📉 Customer Churn Prediction System
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.7.2-orange)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3-orange)
 ![SHAP](https://img.shields.io/badge/SHAP-Explainability-purple)
-![SQL](https://img.shields.io/badge/SQL-SQLite-lightgrey)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-![Excel](https://img.shields.io/badge/Excel-Export-green)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow)
+![SQL](https://img.shields.io/badge/SQL-SQLAlchemy-green)
 
 ## Project Overview
 
