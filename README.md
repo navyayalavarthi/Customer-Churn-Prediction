@@ -145,7 +145,6 @@ tenure              — longer stay = lower risk
 | Risk Segments | 169K high risk customers by segment and region |
 | Model Performance | Confusion matrix, Precision, Recall, F1, Recall gauge |
 | Retention Strategy | Revenue at risk, top churn reasons, customer table |
-![Dashboard](screenshots/dashboard.png)
 
 ## Project Structure
 ```
